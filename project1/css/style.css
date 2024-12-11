@@ -1,0 +1,148 @@
+*{
+    font-family: "Inter", sans-serif;
+
+}
+.whatsappbtn{
+    border: 1px solid rgb(166, 119, 119);
+    padding: 10px 18px;
+    
+    /* background: linear-gradient(to right, #0ACEFE,#2699F8); */
+}
+.whatsappbtn i{
+    color: rgb(166, 119, 119);
+}
+.whatsappbtn:hover{
+    border: 1px solid rgb(166, 119, 119);
+}
+.callbtn{
+    color: white;
+    padding: 10px 18px;
+    background: linear-gradient(to right, #0ACEFE,#2699F8);
+}
+.bannercontent h1{
+    font-size: 52px;
+    font-weight: 700;
+    
+}
+.bannercontent h1 span{
+    color: #2699F8;
+}
+.bannercontent ul{
+    list-style: none;
+}
+.bannercontent ul li{
+    font-size: 22px;
+}
+.bannercontent ul li i{
+    color: #2699F8;
+}
+.bannercontentbtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+
+}
+.bannercontentbtn button:first-child{
+    background-color: #2f8ad5;
+    color: white;
+}
+.bannerform{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerform h3{
+    font: 18px;
+    font-weight: 700;
+}
+.bannerform button{
+    width: 100%;
+    padding: 10px 0px;
+    background-color: #2f8ad5;
+    border: none;
+}
+.counterSection h2{
+    font-size: 30px;
+    font-weight: 700px;
+    color: #2699F8;
+}
+.highlightSec{
+    background-color: #F7FAFF;
+}
+.highlightSec h1{
+    font-size: 36px;
+    font-weight: 700;
+    
+}
+.highlightSec p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+.highlightItems h4{
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 600px;
+}
+.highlightItems p{
+    font-size: 15px;
+    line-height: 22px;
+}
+.bookClassbtn button{
+    width: 20%;
+    color: white;
+    margin-left: 40%;
+    padding: 10px 18px;
+    background: linear-gradient(to right, #0ACEFE,#2699F8);
+    
+}
+.sectionThree h1{
+    font-size: 44px;
+    line-height: 52.25px;
+    font-weight: 700;
+     
+}
+.secitonThreeitems{
+    height: 278x;
+    width: 270px;
+    /* display: flex; */
+}
+.sectionThree p{
+    font-size: 18px;
+    line-height: 27px;
+}
+.secitonThreeitems {
+    border-radius: 7%;
+    
+}
+.secitonThreeitems i{
+    width: 56px;
+    height: 56px;
+    font-size: 30px;
+    background-color: rgb(213, 243, 243);
+    border-radius: 10px;
+}
+.secitonThreeitems h5{
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 600;
+}
+.secitonThreeitems p{
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #0A2134;
+}
+.footSection{
+    background-color: #0A2134;
+    color: whitesmoke;
+}
+
+#navbarNav ul li a{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 25px;
+    color: dodgerblue;
+}
+
+
+
